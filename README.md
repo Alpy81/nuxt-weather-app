@@ -1,5 +1,6 @@
 # Nuxt 3 Weather App
 
+
 ## Setup
 
 Make sure to install the dependencies:
@@ -15,6 +16,19 @@ yarn install
 
 # bun
 bun install
+
+
+## Installing Nuxt3
+
+# npx
+npx nuxi@latest init <project-name>
+
+# pnpm
+pnpm dlx nuxi@latest init <project-name>
+
+# bun 
+bunx nuxi@latest init <project-name>
+
 
 ## Development Server
 
@@ -49,20 +63,6 @@ yarn build
 # bun
 bun run build
 
-Locally preview production build:
-
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-
 
 Go to 'openeatherapp.org' and get your API Key.
 Fill the information of your API in a Folder, for example 'store' and open a file, which you can call 'weather.js'.
@@ -76,5 +76,3 @@ Finish your Code competely.
 Now you can start searching for your city by filling the input. 
 After this step, you pull the button an you get the weather information about the city you have choosen.
 If the city is not found, the application shows an error message.
-
-
