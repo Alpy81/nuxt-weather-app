@@ -1,7 +1,7 @@
 export default {
   target: 'static', 
   router: {
-    base: '/nuxt-weather-app>/' 
+    base: '/weather-app-nuxt/' 
   },
   generate: {
     dir: 'dist' 
