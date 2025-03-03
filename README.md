@@ -1,3 +1,6 @@
+Visible on nuxt-weather-application.netlify.app
+
+
 # Nuxt 3 Weather App
 
 
