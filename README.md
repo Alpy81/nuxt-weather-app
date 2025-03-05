@@ -1,2 +1,1 @@
-# Application visible on: 
-nuxt-weather-application.netlify.app
+# Project Demo: nuxt-weather-application.netlify.app
